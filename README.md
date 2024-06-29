@@ -22,3 +22,8 @@ Features
 - Getting Started
 Prerequisites
 - Python 3.6 or higher
+- pip (Python package installer)
+  Clone Repository
+- git clone https://github.com/yourusername/ganders-universe.git
+cd ganders-universe
+
